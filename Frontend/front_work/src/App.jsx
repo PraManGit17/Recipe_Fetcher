@@ -1,11 +1,14 @@
 import React from "react";
+import Header from "./components/Header";
+import Landing from "./components/Landing";
 
 function App() {
 
   return (
   
       <div>
-        <h1 className="text-red-200 bg-amber-400">Hi</h1>
+        <Header />
+        <Landing />
       </div>
   )
 }
