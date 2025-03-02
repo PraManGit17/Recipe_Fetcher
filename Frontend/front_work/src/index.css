@@ -1,1 +1,14 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Jersey+25&display=swap');
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden; /* Prevent horizontal scroll */
+  
+  /* Gradient Background */
+  background: linear-gradient(to bottom, #000000, #2D2D2D);
+  font-family: 'Jersey 25', sans-serif;
+}
