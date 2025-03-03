@@ -9,6 +9,6 @@ html, body {
   overflow-x: hidden; /* Prevent horizontal scroll */
   
   /* Gradient Background */
-  background: linear-gradient(to bottom, #000000, #2D2D2D);
+  background: linear-gradient(to bottom, #000000, #504f4f);
   font-family: 'Jersey 25', sans-serif;
 }
