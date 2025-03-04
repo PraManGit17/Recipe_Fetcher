@@ -6,9 +6,9 @@ html, body {
   margin: 0;
   padding: 0;
   height: 100%;
-  overflow-x: hidden; /* Prevent horizontal scroll */
-  
-  /* Gradient Background */
-  background: linear-gradient(to bottom, #000000, #504f4f);
+  overflow-x: hidden;
+  background: url('./assets/bgimage.png') no-repeat center center fixed;
+  background-size: 100%;
+  min-height: 100vh;  
   font-family: 'Jersey 25', sans-serif;
 }
